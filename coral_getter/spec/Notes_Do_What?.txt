@@ -1,0 +1,48 @@
+user types show corals
+
+list all SPS products
+
+list SPS prices
+
+list SPS names
+
+list quantity -  if a thing for limited runs should have number
+
+list how many in 3 price ranges ranges
+ pick price range
+
+
+what are sps coral consisting of image /link
+names
+prices
+availability
+
+
+tjm is fire crack is sold out for availability
+
+element ==
+<p class="product__price">
+              <meta itemprop="priceCurrency" content="USD">
+              <meta itemprop="price" content="250.0">
+
+                <span class="visually-hidden">Regular price</span>
+                <span class="product__price--reg js-price">$250</span>
+
+            </p>
+<button type="button" class="btn btn--add-to-cart btn--disabled disabled" disabled="">
+                Sold out
+              </button>
+
+
+              #test
+
+              # user types show corals
+
+              # list SPS prices
+              #
+              # list SPS names
+              #
+              # list quantity -  if a thing for limited runs should have number
+              #
+              # list how many in 3 price ranges ranges
+              #  pick price range

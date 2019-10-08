@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require "bundler/setup"
+require './lib/environment'
+require './concerns/menu_mod'
+
+CoralGetter::CLI.new.call_on_open
