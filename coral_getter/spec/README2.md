@@ -12,15 +12,23 @@ Add this line to your application's Gemfile:
 gem 'coral_getter'
 ```
 
-And then execute:
-
-    $ bundle
-
 Or install it yourself as:
 
     $ gem install coral_getter
 
+And then execute:
+
+    $ bundle
+
+    run this command in the command line if error says you need or do not have permission to execute:
+
+    chmod a+x ./bin/coral_getter
+
+This will make the file executable.
+
 ## Usage
+
+//use :    ./bin/coral_getter             //to  run the program
 
 Use this app to see in stock sps coral as well as anything under $100
 
