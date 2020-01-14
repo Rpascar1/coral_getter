@@ -1,6 +1,7 @@
 # CoralGetter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/coral_getter`. To experiment with that code, run `bin/console` for an interactive prompt.
+This program scrapes the website https://tjmcorals.com/ showing current and out stock items as well as price ranges for all stock and items I specificallyt buy which tend to be less than $100. I created this functionality as it does not exist on the actually website currently.
+
 
 TODO: Delete this and the text above, and describe your gem
 
