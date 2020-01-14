@@ -24,7 +24,7 @@ And then execute:
 
 ## Usage
 
-//use :    ./bin/coral_getter             //to  run the program
+//use:     ./bin/coral_getter - to  run the program
 
 
 run this command in the command line if error says you need or do not have permission to execute:
