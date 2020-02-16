@@ -1,6 +1,6 @@
 # CoralGetter
 
-This program scrapes the website https://tjmcorals.com/ showing current and out stock items as well as price ranges for all stock and items I specificallyt buy which tend to be less than $100. I created this functionality as it does not exist on the actually website currently.
+This program scrapes the website https://tjmcorals.com/ showing current and out stock items as well as price ranges for all stock and items I specificallyt buy which tend to be less than $100. I created this functionality as it does not exist on the actual website currently.
 
 
 ## Installation
