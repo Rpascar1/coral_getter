@@ -25,7 +25,7 @@ And then execute:
 
 //use:     ./bin/coral_getter - to  run the program
 
-[Imgur](https://i.imgur.com/1hbnA4q.png)
+![Imgur](https://i.imgur.com/1hbnA4q.png)
 
 run this command in the command line if error says you need or do not have permission to execute:
 
