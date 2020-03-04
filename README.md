@@ -35,6 +35,8 @@ This will make the file executable.
 
 Use this app to see in stock sps coral as well as anything under $100
 
+![Imgur](https://i.imgur.com/OzOD5pM.png)
+
 ## License
 https://opensource.org/licenses/MIT
 
